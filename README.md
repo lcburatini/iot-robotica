@@ -1,2 +1,14 @@
-# iot-robotica
-Projetos de robótica utilizando ESP32, sensores e visão computacional.
+# IoT - Robótica
+
+Projetos voltados para robótica e automação.
+
+## Temas
+
+- Sensores
+- Controle de Motores
+- Visão Computacional
+- Navegação
+
+## Objetivo
+
+Desenvolver protótipos educacionais e experimentais para aprendizado de automação e robótica.
